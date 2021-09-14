@@ -20,7 +20,7 @@ technologies, being diverse in various fields of technology. I'm looking to coll
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ask-kausheek&label=Profile%20views&color=blue&style=flat"
         alt="ask-kausheek" /> </p>
 
-- Areas of Interest : **5G and beyond | Wireless Communication | Computer Networks**
+- Areas of Interest : **5G and beyond | IoT | Wireless Communication | Computer Networks**
 
 
 <h3 align="left">Softwares and Tools:</h3>
