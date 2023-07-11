@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Kausheek Akella , pursuing Btech(Hons.) at IIT Bhilai. I am interested to work on projects of various
-technologies, being diverse in various fields of technology. I'm looking to collaborate on projects involving  Internet of Things (IoT), Wireless Communications and Computer Networks. 
+I am Kausheek Akella , grauated with Btech(Hons.) at IIT Bhilai. I am interested to work on projects of various
+technologies, being diverse in various fields of technology. I'm looking to collaborate on projects involving  the Internet of Things (IoT), Wireless Communications, and Computer Networks. 
  - 📫 You can reach me at akellakausheek[at]gmail.com 😉
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ask-kausheek&label=Profile%20views&color=blue&style=flat"
