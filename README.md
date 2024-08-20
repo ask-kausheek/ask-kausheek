@@ -13,19 +13,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Kausheek Akella , graduated with Btech(Hons.) at IIT Bhilai. I am interested to work on projects of various
-technologies, being diverse in various fields of technology. I'm looking to collaborate on projects involving  the Internet of Things (IoT), Wireless Communications, and Computer Networks. 
+I am Kausheek Akella , Experienced Software Engineer. Graduated with Btech(Hons.) at IIT Bhilai. 
+Interested to work on projects of  Full Stack( Backend heavy)  diverse  fields of technology. 
+I'm looking to collaborate on projects involving  the Internet of Things (IoT), Wireless Communications, Machine Learning and Computer Networks. 
  - 📫 You can reach me at akellakausheek[at]gmail.com 😉
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ask-kausheek&label=Profile%20views&color=blue&style=flat"
         alt="ask-kausheek" /> </p>
 
-- Areas of Interest : **5G and beyond | IoT | Wireless Communication | Computer Networks**
+- Areas of Interest : **ML | IoT | Wireless Communication | Computer Networks**
 
 
 <h3 align="left">Softwares and Tools:</h3>
 <p align="left"> 
-    <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40" /> </a> 
+    <a href="https://go.dev/" target="_blank"> <img src="https://go.dev/images/gophers/ladder.svg" alt="Golang" width="40" height="40" /> </a> 
     <a href="https://www.raspberrypi.org/" target="_blank"> <img src="https://elinux.org/images/c/cb/Raspberry_Pi_Logo.svg" alt="Rpi" width="40" height="40" /> </a>                   <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a> 
     <a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40" /> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a> 
