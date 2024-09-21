@@ -13,15 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Kausheek Akella , Experienced Software Engineer. Graduated with Btech(Hons.) at IIT Bhilai. 
+I am Kausheek Akella ,  Software Engineer. Graduated  at IIT Bhilai with Btech(Hons.). 
 Interested to work on projects of  Full Stack( Backend heavy)  diverse  fields of technology. 
-I'm looking to collaborate on projects involving  the Internet of Things (IoT), Wireless Communications, Machine Learning and Computer Networks. 
+I'm looking to collaborate on projects involving  the  TeleCommunications, AI/Machine Learning and Computer Networks. 
  - 📫 You can reach me at akellakausheek[at]gmail.com 😉
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ask-kausheek&label=Profile%20views&color=blue&style=flat"
         alt="ask-kausheek" /> </p>
 
-- Areas of Interest : **ML | IoT | Wireless Communication | Computer Networks**
+- Areas of Interest : **ML | AI | WebDev | Computer Networks**
 
 
 <h3 align="left">Softwares and Tools:</h3>
